@@ -9,7 +9,7 @@ https://docs.nativescript.org/ui/components.
     The ActionBar is the NativeScript common abstraction over the Android ActionBar and iOS NavigationBar.
     http://docs.nativescript.org/ui/action-bar
     -->
-    <ActionBar title="My App" icon="" />
+    <ActionBar title="IuA" icon="" />
 
     <!--
     The StackLayout stacks UI components on the screen—either vertically or horizontally.
